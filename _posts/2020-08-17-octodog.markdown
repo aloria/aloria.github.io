@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Mind Blowing Gourmet Experience"
+date:   2020-08-17
+categories: [next level]
+---
+## What you need
+* A box of Kraft Dinner
+* As much butter and milk as indicated on the box of Kraft Dinner
+* A thicc hot dog
+
+## Do this
+* Get a pan big enough to stick a hot dog in and start boiling some water
+* About an inch from the top of the hot dog, cut lengthwise in half. Cut each half until you have 8 tentacles.
+* Boil the hot dog for about 5 minutes. Remove from water and set aside
+* Dump macaroni in the boiling hot dog water and cook according to package directions. It’s just Kraft Dinner. You got this.
+* Serve in a bowl with your octodog on top. You can give it little eyes with some peppercorns or something if you’re feeling fancy.<br/>
+<br/>
+![octodog]({{ site.baseurl }}/assets/images/octo.jpg "octodog")
