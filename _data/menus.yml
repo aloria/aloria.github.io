@@ -1,8 +1,8 @@
+- default: menu_index
+  url: ''
+
 - default: menu_about
   url: 'about'
-
-#- default: menu_index
-#  url: ''
 
 - default: menu_category
   url: 'categories'
