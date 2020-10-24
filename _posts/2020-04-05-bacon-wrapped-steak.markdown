@@ -2,7 +2,7 @@
 layout: post
 title:  "Bacon-Wrapped Steak"
 date:   2020-04-05
-categories: [Instant Pot]
+categories: [meats]
 ---
 I just made this with some mashed potatoes.
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Instant Pot Hard Boiled Eggs"
 date:   2020-04-04
 last_modified_at: 2020-04-04
-categories: [Instant Pot]
+categories: [instant pot]
 ---
 Yes, this is the post I am starting my blog with. We all need an egg in these trying times.
 
