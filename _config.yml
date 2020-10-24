@@ -3,7 +3,7 @@
 # This is the configuration file for your blog, please change these items after forked.
 
 title: Just the F*cking Recipe
-email: your-email@example.com
+email: farts@just-the.recipes
 name: aloria
 description: >- # this means to ignore newlines until "baseurl:"
   I don't need your life story. I just want some food.
@@ -22,13 +22,13 @@ language: en
 # zh-cn: 简体中文 (Simplified Chinese)
 # zh-tw: 繁體中文 (Traditional Chinese)
 
-analytics: # the Google Analytics property ID, e.g. UA-XXXXX-Y
+analytics: G-42HG3L86FD
 
 comments: false # enable comments
 disqus: # disqus account
 
-mathjax: true # Math support
-diagram: true # Diagrams support
+mathjax: false # Math support
+diagram: false # Diagrams support
 
 paginate: 25
 paginate_path: '/page:num/'

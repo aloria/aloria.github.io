@@ -3,10 +3,10 @@ layout: post
 title:  "Instant Pot Hard Boiled Eggs"
 date:   2020-04-04
 last_modified_at: 2020-04-04
-categories: [instant pot]
+categories: [instant pot, eggs]
 ---
 Yes, this is the post I am starting my blog with. We all need an egg in these trying times.
-
+<br/>
 ## What you need
 * An Instant Pot
 * That steamer rack/ basket thing that comes with the Instant Pot

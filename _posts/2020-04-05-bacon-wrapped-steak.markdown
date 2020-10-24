@@ -5,7 +5,7 @@ date:   2020-04-05
 categories: [meats]
 ---
 I just made this with some mashed potatoes.
-
+<br/>
 ## What you need
 * A thicc round steak. I used top sirloin medallions.
 * Bacon
