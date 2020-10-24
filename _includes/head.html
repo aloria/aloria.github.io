@@ -25,12 +25,16 @@
   type="text/css"
   href="{{ site.baseurl }}/assets/css/highlight.css" />
 
-<!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-{% if site.analytics %}
-  {% include analytics.html %}
-{% endif %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-42HG3L86FD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-42HG3L86FD');
+</script>
+
 {% if site.mathjax %}
 <script
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
