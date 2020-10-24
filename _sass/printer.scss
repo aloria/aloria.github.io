@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.print-post-author {
+  display: none;
+}
+
+@media print {
+  /* Header */
+  .container-header {
+    display: none;
+  }
+
+  /* Footer */
+  .container-footer {
+    display: none;
+  }
+
+  /* Post */
+  .post-title {
+    text-align: center;
+  }
+
+  .post-author {
+    display: block;
+    text-align: center;
+  }
+
+  .post-info {
+    display: none;
+  }
+
+  /* Highlight */
+  pre.highlight {
+    overflow-x: hidden;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+}

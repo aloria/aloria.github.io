@@ -1,0 +1,56 @@
+# Welcome to Jekyll Paper for Github
+#
+# This is the configuration file for your blog, please change these items after forked.
+
+title: Just the F*cking Recipe
+email: your-email@example.com
+name: aloria
+description: >- # this means to ignore newlines until "baseurl:"
+  I don't need your life story. I just want some food.
+keywords: [Your keywords]
+baseurl: '' # the subpath of your site, e.g. /`blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+domain: 'example.com' # the domain name for your site, e.g. example.com
+language: en
+# Supported languages list:
+# en: English
+# de: Deutsche (German)
+# es: Español (Spanish)
+# fr: Français (French)
+# ja: 日本語 (Japanese)
+# pt: Português (Portuguese)
+# zh-cn: 简体中文 (Simplified Chinese)
+# zh-tw: 繁體中文 (Traditional Chinese)
+
+analytics: # the Google Analytics property ID, e.g. UA-XXXXX-Y
+
+comments: false # enable comments
+disqus: # disqus account
+
+mathjax: true # Math support
+diagram: true # Diagrams support
+
+paginate: 25
+paginate_path: '/page:num/'
+
+permalink: /:year/:month/:day/:title
+
+sass:
+  sass_dir: _sass
+  style: expanded # compressed, compact, expanded or compressed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - github-pages
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
