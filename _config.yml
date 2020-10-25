@@ -30,7 +30,7 @@ disqus: # disqus account
 mathjax: false # Math support
 diagram: false # Diagrams support
 
-paginate: 25
+paginate: 20
 paginate_path: '/page:num/'
 
 permalink: /:year/:month/:day/:title
