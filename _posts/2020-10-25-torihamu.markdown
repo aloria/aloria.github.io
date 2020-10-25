@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Torihamu"
+date:   2020-10-25
+categories: [meats]
+---
+It's chicken that sort of tastes like ham. You'll practically be a wizard if you make this.<br/>
+<br/>
+## What you need
+* Boneless chicken breasts
+* Ziplock bags (1 for each breast)
+* Plastic wrap
+* Kitchen twine
+* For each chicken breast:
+  * 1 tbsp molasses
+  * 1 tbsp brown sugar
+  * 1 tbsp honey
+  * 1 tsp black pepper
+  * Thyme
+
+## Do this
+* Trim fat from chicken
+* Squish chicken flat (cling wrap and a rolling pin works well for this)
+* Stab each piece of chicken violently several times with a fork
+* Mix sweeteners and black pepper in a bowl (skip the thyme for now)
+* Divide each chicken breast and ~3 tbsp of sweetener mix into ziplock bags
+* Squish the crap out of each bag so the chicken is well coated and somewhat demoralized 
+* Seal bags and refrigerate for ~48 hours
+* Rinse chicken off in cold water
+* Roll each chicken breast tightly into a, well, roll
+* Wrap each piece tightly in plastic 
+* Bring a pot of water to a boil and add add chicken. Let boil for 5 minutes
+* Turn heat off pot. Put a lit on the pot and let chicken sit for 1 hour
+* Upwrap chicken and sprinke with thyme
+* Marvel upon your creation and consider eating it<br/>
+<br/>
+![torihamu]({{ site.baseurl }}/assets/images/torihamu.jpg "torihamu")
