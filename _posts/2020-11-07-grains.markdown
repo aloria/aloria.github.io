@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Cook Grains in an Instant Pot "
 date:   2020-11-06
-categories: [carbs]
+categories: [carbs, instant pot]
 ---
 Blah blah everyone loves rice blah blah quinoa is so versatile blah blah barley makes you shoot rainbows out your butt<br/>
 <br/>
