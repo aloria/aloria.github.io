@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "How to Cook Grains in an Instant Pot "
+date:   2020-11-06
+categories: [carbs]
+---
+Blah blah everyone loves rice blah blah quinoa is so versatile blah blah barley makes you shoot rainbows out your butt<br/>
+<br/>
+## What you need
+* Some form of grain:
+  * Rice
+  * Quinoa
+  * Barley
+  * Oatmeal
+
+## Do this
+* Rinse your grains (except the oatmeal) thoroughly. Like in a sieve or something.
+* Rice:
+	* Add equal amounts water and rice to instant pot (unless you're using wild rice, then add an additional 1/2 cup)
+	* Set Instant Pot to high pressure; set for the following times:
+		* White (basmati, jasmine, American long grain:) 5 minutes
+		* Long grain brown rice: 10 minutes
+		* Wild rice: 15-20 minutes
+		* Black (forbidden) rice: 15-20 minutes
+		* Sushi rice: 10 minutes
+	* Allow pressure to naturally release for 10 minutes
+	* Congrats. You made rice.  
+* Quinoa:
+	* Use equal amounts of water and quinoa
+	* Cook on high pressure for 1 minute
+	* Let pressure naturally release for 10 minutes
+* Barley (hulled:)
+	* Use 3 cups water for every cup of barley
+	* Set pressure to high for 23 minutes
+	* Quick release pressure when time is up
+* Oatmeal (steel-cut:)
+	* Use 2.5 cups of water for every cup of oatmeal
+	* Set pressure to high for 4 minutes
+	* Allow pressure to naturally release for 20 minutes
+
+<br/>
+![grains]({{ site.baseurl }}/assets/images/grains.gif "grains")
