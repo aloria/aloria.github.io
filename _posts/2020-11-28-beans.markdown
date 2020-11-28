@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "How to Cook Beans in an Instant Pot "
+date:   2020-11-28
+categories: [carbs, instant pot]
+---
+I can't believe I had to scroll through a metric ass-ton of screens just to get instructions on how to cook beans. We live in dark times. <br/>
+<br/>
+## What you need
+* Some kind of dried bean:
+  * Kidney
+  * Canelli
+  * Black
+  * Pinto
+* (Optional) bay leaves, garlic, and/ or onion
+## Do this
+* Rinse your beans and make sure there are no rocks in there
+* Add beans to Instant Pot
+* Add water: for a pound (~2 cups) of beans, you need 8 cups of water
+* Add bay leaves/ garlic/ onion if you're using them
+* Set Instant Pot to high pressure for the following times:
+  * Kidney: 30 minutes 
+  * Canelli: 35 minutes
+  * Black: 25 minutes
+  * Pinto: 30 minutes
+ * After time is up, you can quick release the pressure if you're impatient for beans<br/>
+<br/> 
+There. Beans. That was hard.
+<br/>
+<br/>
+![bean]({{ site.baseurl }}/assets/images/beans.gif "beans")
