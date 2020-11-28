@@ -31,7 +31,7 @@ I usually use tilapia for this. I'm sure you can use cod or mahi mahi or somethi
 * Cover pan with foil
 * Cook for approx. 10-15 minutes, until fish flakes when you cut it with a fork<br/>
 <br/>
-I usually serve this over rice. You can learn how to make rice in an instant pot [here](/2020/11/06/grains).
+I usually serve this over rice. You can learn how to make rice in an instant pot here: [How to Cook Grains in an Instant Pot](/2020/11/06/grains).
 <br/>
 <br/>
 ![black hole sun]({{ site.baseurl }}/assets/images/fish.gif "black hole sun")
