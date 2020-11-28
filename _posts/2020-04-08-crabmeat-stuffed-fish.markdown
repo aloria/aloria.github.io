@@ -2,7 +2,7 @@
 layout: post
 title:  "Crabmeat Stuffed Fish"
 date:   2020-04-08
-categories: [meats]
+categories: [meats, fish]
 ---
 My boyfriend’s mom made this for Christmas. She is a nice lady.<br/>
 

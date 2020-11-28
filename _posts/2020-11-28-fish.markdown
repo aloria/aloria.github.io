@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Baked Whitefish"
+date:   2020-11-28
+categories: [meats, fish]
+---
+I usually use tilapia for this. I'm sure you can use cod or mahi mahi or something that will have people judge you less than using tilapia. <br/>
+<br/>
+## What you need
+* Fish filets (I usually make around 4)
+* 1 large red onion, sliced
+* 1 cup grape tomatoes, halved
+* 1 lemon, sliced
+* 1/4 cup lemon juice
+* 5 tbsp melted butter
+* 1 tbsp garlic powder
+* 1 tbsp chili flakes
+* More spices: I use a blend of rosemary, black pepper, ground mustard seed, dried parsley, and oregano.
+* Baking dish
+* Aluminum foil
+
+## Do this
+* Preheat oven to 400°F
+* Mix melted butter, lemon juice, garlic powder, and chili flakes together
+* Line pan with foil 
+* Spread a layer of sliced onions in the pan
+* Season both sides of filets with the spice blend and add to pan
+* Place sliced lemons on fish
+* Add tomatoes evenly across pan
+* Pour butter mixture over everything 
+* Cover pan with foil
+* Cook for approx. 10-15 minutes, until fish flakes when you cut it with a fork<br/>
+<br/>
+I usually serve this over rice. You can learn how to make rice in an instant pot [here](/2020/11/06/grains).
+<br/>
+<br/>
+![black hole sun]({{ site.baseurl }}/assets/images/fish.gif "black hole sun")
