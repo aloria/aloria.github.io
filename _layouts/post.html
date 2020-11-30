@@ -19,15 +19,15 @@ layout: default
       {{ site.data.lang[site.language].post_write_date}}
       {{ page.date | date: '%Y-%m-%d' }}
     </div>
-    {% if site.name %}
+    {% if page.author %}
     <div class="post-author">
-      {{ site.data.lang[site.language].post_author }}{{ site.name }}
+      {{ site.data.lang[site.language].post_author }}{{ page.author }}
     </div>
     {% endif %}
     <div class="post-categories">
       <span>{{ site.data.lang[site.language].post_categories }}</span>
       {% for category in page.categories %}
-      <a 
+      <a
         href="{{ site.baseurl }}/categories#{{ category }}"
         class="post-category">
         {{ category }}

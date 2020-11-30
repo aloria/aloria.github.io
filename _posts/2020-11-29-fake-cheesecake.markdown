@@ -2,8 +2,11 @@
 layout: post
 title:  "'Fake' Cheesecake"
 date:   2020-11-29
+author:  gnuconsulting
 categories: [dessert, carbs]
 ---
+by [@gnuconsulting](https://twitter.com/gnuconsulting)<br/>
+<br/>
 This is also sometimes known as cream cheese pie. <br/>
 <br/>
 ## What you need
