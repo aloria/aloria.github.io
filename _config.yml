@@ -22,7 +22,7 @@ language: en
 # zh-cn: 简体中文 (Simplified Chinese)
 # zh-tw: 繁體中文 (Traditional Chinese)
 
-# future: true
+future: false
 
 analytics: G-42HG3L86FD
 
