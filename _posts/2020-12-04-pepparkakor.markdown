@@ -26,7 +26,7 @@ It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 ## Do this
 * Mix flour and baking soda in a bowl large enough for your purposes
 * Put butter, sugar, molasses, ginger, cinnamon, orange extract, salt, cloves, and pepper in a saucepan over medium heat
-* @hisk until sugar dissolves and the mixture begins to simmer. Remove from heat and cool until it's not hot enough to melt your flesh off (~30 mins)
+* Whisk until sugar dissolves and the mixture begins to simmer. Remove from heat and cool until it's not hot enough to melt your flesh off (~30 mins)
 * Whisk egg into the cooled mixture until smooth
 * Pour over the dry ingredients and fold with spatula until no dry flour remains
 * Refrigerate at least 2 hours
