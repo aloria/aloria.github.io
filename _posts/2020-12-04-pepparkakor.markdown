@@ -10,6 +10,7 @@ It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 ## What you need
 * 3/4 cups flour
 * 1/8 tsp baking soda
+* (optional) 1 tbsp ground flaxseed. It's good for you or something
 * 4 tbsp unsalted butter
 * 1/2 cup packed light brown sugar
 * 3 tbsp white sugar
@@ -24,7 +25,7 @@ It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 
 
 ## Do this
-* Mix flour and baking soda in a bowl large enough for your purposes
+* Mix flour, baking soda, and flaxseed (if using) in a bowl large enough for your purposes
 * Put butter, sugar, molasses, ginger, cinnamon, orange extract, salt, cloves, and pepper in a saucepan over medium heat
 * Whisk until sugar dissolves and the mixture begins to simmer. Remove from heat and cool until it's not hot enough to melt your flesh off (~30 mins)
 * Whisk egg into the cooled mixture until smooth
