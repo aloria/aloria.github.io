@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'example.com' # the domain name for your site, e.g. example.com
+domain: 'just-the.recipes' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
@@ -21,6 +21,8 @@ language: en
 # pt: Português (Portuguese)
 # zh-cn: 简体中文 (Simplified Chinese)
 # zh-tw: 繁體中文 (Traditional Chinese)
+
+future: true
 
 analytics: G-42HG3L86FD
 

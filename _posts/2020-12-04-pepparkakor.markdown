@@ -5,7 +5,7 @@ date:   2020-12-04
 author:  aloria
 categories: [dessert]
 ---
-It's Swdish for "pepper cookie" but it's basically a gingersnap<br/>
+It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 <br/>
 ## What you need
 * 3/4 cups flour
