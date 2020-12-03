@@ -11,7 +11,7 @@ It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 * 3/4 cups flour
 * 1/8 tsp baking soda
 * 4 tbsp unsalted butter
-* .5 cup packed light brown sugar
+* 1/2 cup packed light brown sugar
 * 3 tbsp white sugar
 * 1/8 cup molasses
 * 1 tbsp ground ginger
