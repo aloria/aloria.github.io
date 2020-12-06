@@ -35,7 +35,7 @@ For a bigger batch, just double the ingrediants<br/>
 * Add in the Velveeta, continue stirring until smooth and creamy
 * Stir in the broccoli
 * Gently stir in eggs
-* Transfer this mixture to your baking dish/pan (I like disposable aluminum pans for this)
+* Transfer this mixture to your baking dish/pan (I like disposable aluminum pans for this). Top with bread crumbs if desired _or_ cheese
 * Bake for 45 minutes, you'll know it's done when it starts to firm up (Shake the pan to check).
   * **Note:** I've cooked this at sea-level and at an elevation of 5,280 feet, with the same results. Any higher than a mile high elevation and you may have to adjust cooking time/temps.
 * Remove from the oven and enjoy! Cover with foil and bring to a friend's place, just pop in the oven to warm up<br/>
