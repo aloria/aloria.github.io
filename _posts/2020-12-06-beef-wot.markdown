@@ -30,4 +30,4 @@ This is based on a recipe for the Ethiopian dish Key Wat, but since I didn't hav
 I serve this with rice but if you can get some of that awesome Ethiopian flatbread (injera,) you should use that<br/>
 
 <br/>
-![beef]({{ site.baseurl }}/assets/images/beef.gif "beef"")
+![beef]({{ site.baseurl }}/assets/images/beef.gif "beef")
