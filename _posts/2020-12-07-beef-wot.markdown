@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Curry Beef Stew"
+date:   2020-12-06
+author:  aloria
+categories: [meats, instant pot]
+---
+This is based on a recipe for the Ethiopian dish Key Wat, but since I didn't have the exact ingredients, I winged it and got this.<br/>
+<br/>
+## What you need
+* Instant Pot
+* 0.5 tsp black pepper
+* 1 tsp sugar
+* 1 tsp chili powder
+* 0.25 tbsp ginger powder
+* 1.5 tbsp curry powder
+* 1 tbsp chinese five spice
+* 1 tbsp tomato paste
+* 1 cup water
+* 1 large onion, diced
+* 1.5 lbs beef, cubed or cut into strips
+
+
+## Do this
+* Put Instant Pot into sauté mode and add butter
+* Once butter is melted, add onion, ginger powder, and garlic powder. Cook until onion is caramelized (~1 min)
+* Add tomato paste, water, and rest of spices. Cook for one minute
+* Add beef. Seal lid and put Instant Pot into Meat/Stew mode and set for 30 minutes<br/>
+<br/>
+I serve this with rice but if you can get some of that awesome Ethiopian flatbread (injera,) you should use that<br/>
+
+<br/>
+![beef]({{ site.baseurl }}/assets/images/beef.gif "beef"")
