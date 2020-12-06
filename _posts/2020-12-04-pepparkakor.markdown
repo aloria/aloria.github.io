@@ -22,8 +22,6 @@ It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 * 1/8 tsp black pepper
 * 1 egg
 
-
-
 ## Do this
 * Mix flour, baking soda, and flaxseed (if using) in a bowl large enough for your purposes
 * Put butter, sugar, molasses, ginger, cinnamon, orange extract, salt, cloves, and pepper in a saucepan over medium heat
