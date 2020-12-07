@@ -7,7 +7,7 @@ categories: [dessert]
 ---
 ## What you need
 * 1.5 cups flour
-* 1 tsp backing powder
+* 1 tsp baking powder
 * .75 cups brown sugar
 * .5 cups coconut milk (the kind in a can, not the kind you pour on your cereal)
 * 2 egg yolks
