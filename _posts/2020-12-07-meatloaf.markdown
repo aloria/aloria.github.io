@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Meatloaf"
+date:   2020-12-07
+author:  aloria
+categories: [meats, instant pot]
+---
+It's a loaf of meat.<br/>
+<br/>
+## What you need
+* 1 lb beef
+* 1 egg
+* 1 cup bread crumbs (I used Italian seasoned)
+* 1 14.5 oz can diced tomatoes, drained (Mine had green chiles)
+* 1 tsp garlic powder
+* 1 tsp onion powder
+* .5 tbsp chili flakes
+* (If not using Italian seasoned bread crumbs) 1 tsp each oregano and basil
+* .5 cup ketchup or barbeque sauce
+* Aluminum foil
+
+## Do this
+* Preheat oven to 350 °F
+* Mix everything except ketchup in a bowl until well mixed
+* Form meat mixure into a loaf shape
+* Plop the loaf onto the foil, cover in sauce, and wrap it up  
+* Place foil wrapped loaf onto a baking sheet and bake about 1 hour or until it reaches an internal temperature of 160°F<br/>
+<br/>
+Serve with mashed potatoes or something.<br/>
+<br/>
+![meatloaf]({{ site.baseurl }}/assets/images/meatloaf.gif "meatloaf")
