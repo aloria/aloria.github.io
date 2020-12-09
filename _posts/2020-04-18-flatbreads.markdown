@@ -28,5 +28,5 @@ Divide dough into ~4 sections. Squish dough into a ball and then squash flat. Yo
 * Dust both sides of breads with flour
 * Fry your little dough babies for about 2 minutes on each side, more or less depending on how thicc they are
 * Remove from oil. Top with whatever. What I did:
-Top flatbreads with alternating slices of mozarella and roasted peppers. Add halved cherry tomatoes to the finalcheese layer. I would have also used fresh basil if I had any.
+Top flatbreads with alternating slices of mozzarella and roasted peppers. Add halved cherry tomatoes to the final cheese layer. I would have also used fresh basil if I had any.
 * Broil flatbreads until cheese has melted and the tomatoes start to wrinkle.
