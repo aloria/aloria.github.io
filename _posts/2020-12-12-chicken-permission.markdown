@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken Permission"
-date:   2020-12-11
+date:   2020-12-12
 author:  aloria
 categories: [meats, baked]
 ---
