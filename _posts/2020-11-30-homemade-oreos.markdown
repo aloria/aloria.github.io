@@ -3,7 +3,7 @@ layout: post
 title:  "Homemade Oreos"
 date:   2020-11-30
 author:  gnuconsulting
-categories: [dessert, carbs]
+categories: [dessert, carbs, baked]
 ---
 by [@gnuconsulting](https://twitter.com/gnuconsulting)<br/>
 <br/>

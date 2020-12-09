@@ -2,7 +2,7 @@
 layout: post
 title:  "Bacon Wrapped Stuffed Dates"
 date:   2020-04-11
-categories: [meats]
+categories: [meats, baked]
 ---
 I had these at a wedding once and they were quite fancy.<br/>
 

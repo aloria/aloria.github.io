@@ -2,7 +2,7 @@
 layout: post
 title:  "Banana Bread"
 date:   2020-06-16
-categories: [baked]
+categories: [dessert, baked]
 ---
 YOU’LL GO APE FOR THIS BANANA BREAD AHAHAHAHAHA<br/>
 <br/>
@@ -38,4 +38,3 @@ AHAHAHAHAA oh god I haven’t left the house in 3 months<br/>
 <br/>
 I also made honey butter as a spread. Just mix equal amounts of honey and softened butter together.<br/>
 ![cat]({{ site.baseurl }}/assets/images/bcat.jpg "cat")
-

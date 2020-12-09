@@ -3,7 +3,7 @@ layout: post
 title:  "Pepparkakor"
 date:   2020-12-04
 author:  aloria
-categories: [dessert]
+categories: [dessert, baked]
 ---
 It's Swedish for "pepper cookie" but it's basically a gingersnap<br/>
 <br/>

@@ -3,7 +3,7 @@ layout: post
 title:  "Coconut Cookies"
 date:   2020-12-08
 author:  aloria
-categories: [dessert]
+categories: [dessert, baked]
 ---
 ## What you need
 * 1.5 cups flour
