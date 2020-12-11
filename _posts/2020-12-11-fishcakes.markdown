@@ -10,6 +10,7 @@ categories: [meats, seafood]
 * 2 cups mashed potatoes
 * 1 egg
 * 1 cup breadcrumbs
+* 1 green onion, chopped 
 * .25 cup flour
 * .25 tsp black pepper
 * .5 tsp garlic powder
