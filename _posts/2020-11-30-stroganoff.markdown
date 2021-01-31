@@ -38,7 +38,7 @@ by [@munin](https://twitter.com/munin), improvements by [@friedkiwi](https://qse
 
 _or_ 
 
-* Prep pasta
+* Prep pasta the lazy way
   * Chuck it into a rice cooker and even it out
   * Add water so the pasta is barely covered
   * Stir through a pinch of salt and some vegetable oil
