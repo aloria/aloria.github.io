@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Munin's Plague-year Stroganoff"
+title:  "Munin's Plague-year Stroganoff v 1.1"
 date:   2020-11-29
 author:  munin
 categories: [meats, pasta]
 ---
-by [@munin](https://twitter.com/munin)<br/>
+by [@munin](https://twitter.com/munin), improvements by [@friedkiwi](https://qseco.fr).<br/>
 <br/>
 'beef stew' is not a secure password. It's not stroganoff.<br/>
 <br/>
@@ -19,12 +19,14 @@ by [@munin](https://twitter.com/munin)<br/>
 
 * Also:
   * About a pound of ground beef
+    * quorn mince or similar also works if you're vegetarian, so does turkey mince if you don't eat beef.
   * Some vegetable oil
   * Garlic powder
   * A pan to fry up the beef
   * A spatula
   * A couple of spoons
   * A can of cream of mushroom soup
+  * (optional) small jar of petit pois and baby carrots
 
 
 ## Do this
@@ -33,6 +35,14 @@ by [@munin](https://twitter.com/munin)<br/>
   * Fill the pot with enough water to cover the pasta plus like a half inch
   * Put this on the back stove burner and turn it on. You're going to want to watch this boil while you do the other stuff.
   * After it starts boiling, poke it with a fork every minute or so to see if you can stab a noodle - if you can do that, drain off any water using the strainer.
+
+_or_ 
+
+* Prep pasta
+  * Chuck it into a rice cooker and even it out
+  * Add water so the pasta is barely covered
+  * Stir through a pinch of salt and some vegetable oil
+  * Close it up and turn the fucker on and forget about it
 
 * Meanwhile:
   * Put a spoonful of vegetable oil in the pan, then put the ground beef on top of that.
@@ -50,8 +60,8 @@ by [@munin](https://twitter.com/munin)<br/>
 * Other things you can do:
   * Try having this on rice. It's good.
   * Add some spices other than garlic - try chipotle powder or summat.
-  * Throw in some peas when you add the mushroom soup. Or chopped up carrots. Or both.
-  * Try it with ground chicken or turkey or pork.
+  * Throw in some peas when you add the mushroom soup. Or chopped up carrots. Or both. Or be lazy and use a jar of the stuff.
+  * Try it with ground chicken or turkey or pork. Use e.g. quorn mince if you're vegetarian.
   * Throw in some spinach with the beef when it's almost done browning. Or chopped mushrooms. Let those cook down with it.<br/>
 <br/>
 ![noodle]({{ site.baseurl }}/assets/images/noodles.gif "noodle")
