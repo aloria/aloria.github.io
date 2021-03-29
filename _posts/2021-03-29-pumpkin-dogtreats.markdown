@@ -16,7 +16,7 @@ HI I AM WICKET AND I WANT TO SHARE WITH YOU THIS WONDERFUL RECIPE<br/>
 * .25 tsp baking soda
 * 1 can pureed pumpkin
 * .25 cup peanut butter
-* 2 cups oatmeal, cookied
+* 2 cups oatmeal, cooked
 * 1 tbsp flaxseed or coconut oil
 * a blender
 * piping bags
