@@ -28,7 +28,7 @@ HI I AM WICKET AND I WANT TO SHARE WITH YOU THIS WONDERFUL RECIPE<br/>
 ## Do this
 * Preheat oven to 375 °F
 * With a blender, grind up oatmeal. Add the rest of the ingredients and blend well
-* Spoon mixture into piping bag. Tie off large end and snip off the small expanded
+* Spoon mixture into piping bag. Tie off large end and snip off the small end
 * Pipe into molds on top of a baking sheet. You may need to do multiple batches depending on how many molds you have
 * Bake for about 1.5 hours until toothpick in a treat comes out clean
 * For crispier treats, remove cookies from the molds and spread out on a baking tray. Bake at 200°F for about 2 hours
