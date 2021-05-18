@@ -37,4 +37,4 @@ categories: [meats, next level]
 * Once chocolate has set, dust with powdered sugar if so desired
 * Embrace your newly hardened arteries <br/>
 <br/>
-![bacon({{ site.baseurl }}/assets/images/bacon.gif "bacon")
+![bacon]({{ site.baseurl }}/assets/images/bacon.gif "bacon")
