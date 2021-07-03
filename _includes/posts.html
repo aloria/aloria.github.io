@@ -24,7 +24,7 @@
       {{ site.data.lang[site.language].paginator_pages }}
       <a href="{{ paginator.previous_page_path }}">{{ paginator.page }}</a>
       /
-      <a href="{{ paginator.last_page_path }}">{{ paginator.total_pages }}</a>
+      <a href="{{ paginator.next_page_path }}">{{ paginator.total_pages }}</a>
     </span>
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="float-right">
