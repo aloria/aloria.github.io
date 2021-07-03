@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Onigiri"
+date:   2021-07-03
+author:  aloria
+categories: [carbs]
+---
+
+
+## What you need
+* Sushi rice
+* Nori (seaweed sheets, not the snack food)
+* Some sort of filling. I like takana, but you can use sushi grade raw fish, canned tuna, etc.
+* (Optional) Furikake. If you can't find it locally, there are many varieties on Amazon
+<br/>
+<br/>
+
+
+
+## Do this
+* Cook your rice. If you have an instant pot, you can use my [How to Cook Grains in an Instant Pot](https://just-the.recipes/2020/11/06/grains) recipe
+* Let the rice cool enough so you don't burn your hands touching it
+* Spinkle in the furikake if you're using it, and mix in with your hands
+* Wet your hands and rub a bit of salt between them
+* Grab a fistful sized amount of rice and form into a ball
+* Squash the ball flat and press a divot in the center
+* Place your fillings in the divot
+* Fold rice over the fillings and form into a triangle
+* Wrap your rice triangle in the nori. I prefer wrapping the whole thing, but you can do the landing strip: 🍙
+<br/>
+<br/>
+![onigiri]({{ site.baseurl }}/assets/images/onigiri.gif "onigiri")
