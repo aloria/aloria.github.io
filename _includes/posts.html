@@ -21,7 +21,8 @@
     </span>
     {% endif %}
     <span class="page_number">
-      <a href="{{ paginator.previous_page_path }}">{{ site.data.lang[site.language].paginator_pages }}{{ paginator.page }}</a>
+      {{ site.data.lang[site.language].paginator_pages }} 
+      <a href="{{ paginator.previous_page_path }}">{{ paginator.page }}</a>
       /
       <a href="{{ paginator.next_page_path }}">{{ paginator.total_pages }}</a>
     </span>
