@@ -21,7 +21,9 @@
     </span>
     {% endif %}
     <span class="page_number">
-      {{ site.data.lang[site.language].paginator_pages }}{{ paginator.page }} / {{ paginator.total_pages }}
+      <a href="{{ paginator.previous_page_path }}" class="float-left">{{ site.data.lang[site.language].paginator_pages }}{{ paginator.page }}</a>
+      /
+      <a href="{{ paginator.next_page_path }}" class="float-right">{{ paginator.total_pages }}</a>
     </span>
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="float-right">
