@@ -6,7 +6,7 @@ author:  archwisp
 categories: [condiments]
 ---
 
-Broth (haha, pun) by the illustrious [archwisp](https://twitter.com/archwisp).
+Broth (haha, pun) to us by the illustrious [archwisp](https://twitter.com/archwisp).
 
 ## What you need
 * 1/2 cup vegetable oil
