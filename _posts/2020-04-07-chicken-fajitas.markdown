@@ -16,7 +16,7 @@ Stuff for a marinade: I use chili powder, garlic powder, MSG, a bit of vinegar, 
 * Tortillas
 * Salsa, hot sauce, cilantro, sour cream, grated cheese, or whatever else you want to put on these bad boys
 
-##Do this
+## Do this
 * Marinate the chicken in the marinade stuff. I do this overnight.
 Cook your marinated chicken to your liking. I usually cook it in an Instant Pot and shred it, but in a pan and sliced after is fine. Just don’t give yourself salmonella.
 * Chop the peppers and onions into long strips
