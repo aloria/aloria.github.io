@@ -8,7 +8,7 @@ Cluck cluck, motherf’ers.<br/>
 
 ## What you need
 * Chicken breasts or thighs. I am a thigh girl, myself.
-Stuff for a marinade: I use chili powder, garlic powder, MSG, a bit of vinegar, and some dried ghost peppers if I really want to break my butthole.
+* Stuff for a marinade: I use chili powder, garlic powder, MSG, a bit of vinegar, and some dried ghost peppers if I really want to break my butthole.
 * Bell peppers
 * Onion
 * Oil
