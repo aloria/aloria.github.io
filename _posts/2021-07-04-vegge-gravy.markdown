@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Onigiri"
-date:   2021-07-03
+title:  "Veggie Gravy"
+date:   2021-07-04
 author:  archwisp
 categories: [condiments]
 ---
