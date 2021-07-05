@@ -16,11 +16,7 @@ It's a fern you can eat. Very popular in Maine.
 * 2 tbsp lemon juice
 * THE FLAVA ENHANCA (MSG) or salt
 * Black pepper (to taste)
-
 <br/>
-<br/>
-
-
 
 ## Do this
 * Clean the fiddleheads by rinsing with cold water. Remove any brown stuff and snip the ends
