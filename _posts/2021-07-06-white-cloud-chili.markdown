@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "White Cloud Chili"
-date:   2021-07-06
+date:   2021-07-05
 author:  gnuconsulting
 categories: [beans, soup, chili]
 ---
