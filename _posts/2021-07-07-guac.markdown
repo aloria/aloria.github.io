@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Guacamole"
+date:   2021-07-07
+author:  archwisp
+categories: [condiments, dips]
+---
+
+By [@archwisp](https://twitter.com/archwisp).
+
+## What you need
+* 4 ripe avocadoes, seeded
+* 1 tsp ground cumin
+* .5 cup minced sweet white onion
+* 2 serrano chiles, seeded and minced
+* .25 cup chopped cilantro
+* 2 tbsp lime juice
+* (to taste) hot pepper sauce, sea salt, white pepper
+<br/>
+<br/>
+
+
+
+## Do this
+* Cut avocado into large chunks
+* In a large bowl, coarsely mash avocado and cilantro with a fork
+* Add remaining incredients and mix gently
+* Season to taste
+<br/>
+<br/>
+![guac]({{ site.baseurl }}/assets/images/guac.gif "guac")
