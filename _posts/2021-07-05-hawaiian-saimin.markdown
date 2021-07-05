@@ -3,7 +3,7 @@ layout: post
 title:  "Hawaiian Saimin"
 date:   2021-07-05
 author:  archwisp
-categories: [condiments]
+categories: [soup]
 ---
 
 By [archwisp](https://twitter.com/archwisp).
