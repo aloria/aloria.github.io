@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Chipped Ham on Toast"
-date:   2021-07-19
-last_modified_at: 2021-08-01
+date: 2021-08-01
 categories: [meats, breakfast]
 ---
 ## What you need
