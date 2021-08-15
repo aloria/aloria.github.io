@@ -32,7 +32,8 @@ For the topping:
 * In a new bowl, cut butter into flour and brown sugar and mix until crumbly
 * Spread over potatoes. Sprinkle chopped pecans on top
 * Bake for 30 minutes
-* **Note:** this can be made ahead of time and frozen, or made in 2 separate casserole dishes
+
+**Note:** this can be made ahead of time and frozen, or made in 2 separate casserole dishes
 <br/>
 <br/>
 ![potat]({{ site.baseurl }}/assets/images/potat.gif "potat")

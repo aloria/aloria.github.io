@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-06T18:13:57-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Sweet Potato Casserole</title><link href="http://localhost:4000/2021/07/09/sweet-potato-casserole" rel="alternate" type="text/html" title="Sweet Potato Casserole" /><published>2021-07-09T00:00:00-04:00</published><updated>2021-07-09T00:00:00-04:00</updated><id>http://localhost:4000/2021/07/09/sweet-potato-casserole</id><content type="html" xml:base="http://localhost:4000/2021/07/09/sweet-potato-casserole">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/archwisp&quot;&gt;@archwisp&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-15T09:35:20-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Spam Musubi</title><link href="http://localhost:4000/2021/08/15/spam-musubi" rel="alternate" type="text/html" title="Spam Musubi" /><published>2021-08-15T00:00:00-04:00</published><updated>2021-08-15T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/15/spam-musubi</id><content type="html" xml:base="http://localhost:4000/2021/08/15/spam-musubi">&lt;p&gt;Graciously brought to us by &lt;a href=&quot;https://twitter.com/mramblr&quot;&gt;Midnight Rambler&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 can spam&lt;/li&gt;
+  &lt;li&gt;2 cups short-grain Japanese style rice&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+  &lt;li&gt;4 sheets nori&lt;/li&gt;
+  &lt;li&gt;optional: 1 tsp sugar, 1-2 tbsp rice vinegar, jelly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rinse the rice and cook with salt beforehand.&lt;/li&gt;
+  &lt;li&gt;Add sugar and vinegar to cooked rice while hot if desired.  Let cool to at least lukewarm.&lt;/li&gt;
+  &lt;li&gt;Slice spam into 8 equal slices (parallel to top of can) and saute until lightly browned on each side.  Don’t let it get crispy.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Near the end, toss in some jelly (guava is good) and/or soy sauce and cook into the spam.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cut the bottom out of the spam can with a can opener.&lt;/li&gt;
+  &lt;li&gt;Cut the nori in half, so that each half is about as long as a piece of spam.&lt;/li&gt;
+  &lt;li&gt;To assemble, put the can over the middle of a piece of nori, put a slice of spam in, add about 1 inch of rice, pack down, remove can, and tightly wrap nori around, moistening the ends to seal.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; you can also use a musubi press instead of the can and a wire meat slicer. But usually those are for 10 slices which IMO is too thin and in the other direction, which isn’t optimized for the nori sheets. YMMV.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/spam.gif&quot; alt=&quot;spam&quot; title=&quot;spam&quot; /&gt;&lt;/p&gt;</content><author><name>Midnight Rambler</name></author><category term="meats" /><category term="carbs" /><summary type="html">Graciously brought to us by Midnight Rambler.</summary></entry><entry><title type="html">Chipped Ham on Toast</title><link href="http://localhost:4000/2021/08/01/chipped-ham-on-toast" rel="alternate" type="text/html" title="Chipped Ham on Toast" /><published>2021-08-01T00:00:00-04:00</published><updated>2021-08-01T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/01/chipped-ham-on-toast</id><content type="html" xml:base="http://localhost:4000/2021/08/01/chipped-ham-on-toast">&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Medium saucepan&lt;/li&gt;
+  &lt;li&gt;Whisk&lt;/li&gt;
+  &lt;li&gt;2 tbsp butter&lt;/li&gt;
+  &lt;li&gt;1 clove of garlic, diced, pressed or smooshed.&lt;/li&gt;
+  &lt;li&gt;2 tbsp flour&lt;/li&gt;
+  &lt;li&gt;salt &amp;amp; pepper, to taste&lt;/li&gt;
+  &lt;li&gt;1 cup milk&lt;/li&gt;
+  &lt;li&gt;1 cup of deli sliced ham, cut into strips or squares&lt;/li&gt;
+  &lt;li&gt;2 slices of bread, toasted&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Melt the butter in a saucepan.&lt;/li&gt;
+  &lt;li&gt;Put garlic in and cook until fragrant, only a minute or two.&lt;/li&gt;
+  &lt;li&gt;Sprinkle in flour, salt and pepper, whisk until it forms a paste.&lt;/li&gt;
+  &lt;li&gt;Stir in milk, whisking constantly.&lt;/li&gt;
+  &lt;li&gt;Cook over medium heat until mixture boils and thickens a little, still whisking constantly.&lt;/li&gt;
+  &lt;li&gt;Remove from heat. Add ham to the sauce and heat through.&lt;/li&gt;
+  &lt;li&gt;Serve over toast.
+&lt;br /&gt;&lt;br /&gt;
+You may prefer more meat, or less meat depending on how much sauce you have. YMMV.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="meats" /><category term="breakfast" /><summary type="html">What you need Medium saucepan Whisk 2 tbsp butter 1 clove of garlic, diced, pressed or smooshed. 2 tbsp flour salt &amp;amp; pepper, to taste 1 cup milk 1 cup of deli sliced ham, cut into strips or squares 2 slices of bread, toasted</summary></entry><entry><title type="html">Sweet Potato Casserole</title><link href="http://localhost:4000/2021/07/09/sweet-potato-casserole" rel="alternate" type="text/html" title="Sweet Potato Casserole" /><published>2021-07-09T00:00:00-04:00</published><updated>2021-07-09T00:00:00-04:00</updated><id>http://localhost:4000/2021/07/09/sweet-potato-casserole</id><content type="html" xml:base="http://localhost:4000/2021/07/09/sweet-potato-casserole">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/archwisp&quot;&gt;@archwisp&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
 &lt;ul&gt;
@@ -217,67 +268,4 @@ For the topping:&lt;/li&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/images/onigiri.gif&quot; alt=&quot;onigiri&quot; title=&quot;onigiri&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>aloria</name></author><category term="carbs" /><summary type="html">What you need Sushi rice Nori (seaweed sheets, not the snack food) Some sort of filling. I like takana, but you can use sushi grade raw fish, canned tuna, etc. (Optional) Furikake. If you can’t find it locally, there are many varieties on Amazon</summary></entry><entry><title type="html">Chocolate Covered Chicken Fried Bacon</title><link href="http://localhost:4000/2021/05/18/heart-attack" rel="alternate" type="text/html" title="Chocolate Covered Chicken Fried Bacon" /><published>2021-05-18T00:00:00-04:00</published><updated>2021-05-18T00:00:00-04:00</updated><id>http://localhost:4000/2021/05/18/heart-attack</id><content type="html" xml:base="http://localhost:4000/2021/05/18/heart-attack">&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Bacon&lt;/li&gt;
-  &lt;li&gt;Dark Chocolate&lt;/li&gt;
-  &lt;li&gt;Powdered sugar&lt;/li&gt;
-  &lt;li&gt;Peanut or other oil with a high smoke point&lt;/li&gt;
-  &lt;li&gt;1 egg&lt;/li&gt;
-  &lt;li&gt;1 cup buttermilk&lt;/li&gt;
-  &lt;li&gt;(optional) 1 tbsp some sort of hot sauce&lt;/li&gt;
-  &lt;li&gt;1 cup flour&lt;/li&gt;
-  &lt;li&gt;.5 tsp black pepper&lt;/li&gt;
-  &lt;li&gt;.25 tsp baking soda&lt;/li&gt;
-  &lt;li&gt;.25 tsp baking powder
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fry bacon to desired crispiness. Pat grease off bacon with paper towels and let cool. Reserve bacon fat in pan for later frying&lt;/li&gt;
-  &lt;li&gt;Mix dry ingredients (except sugar and chocolate, duh) together in a bowl&lt;/li&gt;
-  &lt;li&gt;Mix buttermilk, egg, and hot sauce together in a separate bowl&lt;/li&gt;
-  &lt;li&gt;Re-heat bacon fat and enough additional oil to cover the bottom of the pan on medium high heat&lt;/li&gt;
-  &lt;li&gt;Dunk bacon slices in flour mixture. Dunk into the egg mixture. Dunk again in the flour mixture&lt;/li&gt;
-  &lt;li&gt;Fry briefly on both sides until coating is golden brown&lt;/li&gt;
-  &lt;li&gt;Pat grease off and let cool again&lt;/li&gt;
-  &lt;li&gt;Melt dark chocolate. You can use a double boiler or microwave in very short bursts.&lt;/li&gt;
-  &lt;li&gt;Dip fried bacon into chocolate or drizzle chocolate over. You do you.&lt;/li&gt;
-  &lt;li&gt;Once chocolate has set, dust with powdered sugar if so desired&lt;/li&gt;
-  &lt;li&gt;Embrace your newly hardened arteries &lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/bacon.gif&quot; alt=&quot;bacon&quot; title=&quot;bacon&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>aloria</name></author><category term="meats" /><category term="next level" /><summary type="html">What you need Bacon Dark Chocolate Powdered sugar Peanut or other oil with a high smoke point 1 egg 1 cup buttermilk (optional) 1 tbsp some sort of hot sauce 1 cup flour .5 tsp black pepper .25 tsp baking soda .25 tsp baking powder</summary></entry><entry><title type="html">Carrot Ginger Soup</title><link href="http://localhost:4000/2021/05/10/carrot-soup" rel="alternate" type="text/html" title="Carrot Ginger Soup" /><published>2021-05-10T00:00:00-04:00</published><updated>2021-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2021/05/10/carrot-soup</id><content type="html" xml:base="http://localhost:4000/2021/05/10/carrot-soup">&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;About half a dozen carrots, peeled and sliced&lt;/li&gt;
-  &lt;li&gt;2 cups finely chopped yellow onion&lt;/li&gt;
-  &lt;li&gt;2 tsp minced ginger&lt;/li&gt;
-  &lt;li&gt;.25 cup orange juice&lt;/li&gt;
-  &lt;li&gt;2 tbsp butter&lt;/li&gt;
-  &lt;li&gt;1 tbsp coconut oil&lt;/li&gt;
-  &lt;li&gt;2 cups vegetable stock&lt;/li&gt;
-  &lt;li&gt;2 cups water&lt;/li&gt;
-  &lt;li&gt;THE FLAVA ENHANCA&lt;/li&gt;
-  &lt;li&gt;To taste:
-    &lt;ul&gt;
-      &lt;li&gt;black pepper&lt;/li&gt;
-      &lt;li&gt;red chili flakes&lt;/li&gt;
-      &lt;li&gt;yellow curry&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Some sort of blending apparatus&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Melt butter and coconut oil over medium high heat and cook onions and carrots until onions are translucent (~5 minutes)&lt;/li&gt;
-  &lt;li&gt;Add ginger, MSG, and orange juice. Simmer for 1 minute&lt;/li&gt;
-  &lt;li&gt;Add stock, water, and whatever other spices you fancy and simmer for ~30 minutes&lt;/li&gt;
-  &lt;li&gt;Let cool before blending it to your desired texture&lt;/li&gt;
-  &lt;li&gt;You can use chives, dill, or fennel as garnish &lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/carrot.gif&quot; alt=&quot;monch&quot; title=&quot;chomp&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>aloria</name></author><category term="soup" /><summary type="html">What you need About half a dozen carrots, peeled and sliced 2 cups finely chopped yellow onion 2 tsp minced ginger .25 cup orange juice 2 tbsp butter 1 tbsp coconut oil 2 cups vegetable stock 2 cups water THE FLAVA ENHANCA To taste: black pepper red chili flakes yellow curry Some sort of blending apparatus</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>aloria</name></author><category term="carbs" /><summary type="html">What you need Sushi rice Nori (seaweed sheets, not the snack food) Some sort of filling. I like takana, but you can use sushi grade raw fish, canned tuna, etc. (Optional) Furikake. If you can’t find it locally, there are many varieties on Amazon</summary></entry></feed>
