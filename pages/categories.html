@@ -8,7 +8,7 @@ permalink: /categories/
   <h1 class="page-title">{{ site.data.lang[site.language].categories_title }}</h1>
   <ul class="categories-list">
     {% for category in site.categories %}
-    <li id="{{ category | first }}">{{ category | first }}
+    <li id="{{ category | first }}"><b style="text-transform: uppercase;">{{ category | first }}</b>
     {% assign sorted_posts = site.posts | sort: 'date' %}{% for post in sorted_posts %}{%if post.categories contains category[0]%}
       <div class="posts-list-item">
         <span class="posts-list-item-name float-left"><a href="{{ post.url }}">{{ post.title }}</a></span>
