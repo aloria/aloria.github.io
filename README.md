@@ -16,3 +16,6 @@ You can also submit by sending a Direct Message to JTFR's twitter account [@TheF
 
 ### Option 3: Email
 I can't believe I'm doing this. You can also send recipes to [farts@just-the.recipe](mailto:farts@just-the.recipe). Be nice.
+
+### (Sort of) Option 4: Submit a suggestion
+Everything posted by aloria (me) to JTFR has been cooked in my "test kitchen" (i.e. a tiny ass stove in an overpriced Brooklyn apartment.) If there's something you'd like to see posted, you can submit a [github issue](https://github.com/aloria/aloria.github.io/issues). Please note that I will not try any recipes containing mayonnaise or lamb. Long f*cking story there. 
