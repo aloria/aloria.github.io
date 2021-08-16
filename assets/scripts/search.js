@@ -39,13 +39,15 @@
                 this.field('title', { boost: 10 });
                 this.field('categories');
                 this.field('url');
+                this.field('content');
 
                 for (var key in window.store) {
                     this.add({
                         'id': key,
                         'title': window.store[key].title,
                         'categories': window.store[key].category,
-                        'url': window.store[key].url,});
+                        'url': window.store[key].url,
+                        'content': window.store[key].content});
       }
             });
 
