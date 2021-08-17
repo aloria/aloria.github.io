@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I don't need your life story. I just want some food.
 keywords: [cooking, recipes]
 baseurl: '' # the subpath of your site, e.g. /`blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://just-the.recipes' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'just-the.recipes' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:

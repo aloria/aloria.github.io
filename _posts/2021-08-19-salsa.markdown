@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Tortilla Factory Salsa"
+author: Lizzie L
+Description: Amazing salsa recipe from a now-closed tex-mex restaurant in Herndon, VA.
+date:   2021-08-19
+categories: [condiments, dips]
+---
+Submitted to us via email by Lizzie L, who seems like a really neat person.
+<br/>
+<br/>
+
+## What you need:
+* 1 29 oz. can crushed tomatoes
+* Medium onion, chopped
+* 1 or more chopped cloves garlic
+* 1 tbsp. crushed red pepper
+* 2 tsp. Mexican oregano
+* 2 tsp. salt/to taste
+* 1 tbsp. ground black pepper
+* 4-6 oz. coarsely chopped cilantro
+* 1/2-3/4 cup red wine vinegar
+* 1/2 cup vegetable oil
+<br/>
+<br/>
+
+## Do This:
+* Blend all ingredients until smooth
+* Refrigerate for at least 8 hours (seriously it improves so much over time)
+<br/>
+<br/>
+
+Mexican oregano is a completely different plant from standard oregano so try to get some if you can.
+<br/>
+<br/>
+![salsa]({{ site.baseurl }}/assets/images/salsa.jpeg "salsa")
