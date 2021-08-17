@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goulash. Pörkölt, actually: the real thing."
-date: 2021-08-16
+date: 2021-08-18
 author:  felixk
 categories: [meats]
 ---
