@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-17T17:41:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Tortilla Factory Salsa</title><link href="http://localhost:4000/2021/08/19/salsa" rel="alternate" type="text/html" title="Tortilla Factory Salsa" /><published>2021-08-19T00:00:00-04:00</published><updated>2021-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/19/salsa</id><content type="html" xml:base="http://localhost:4000/2021/08/19/salsa">&lt;p&gt;Submitted to us via email by Lizzie L, who seems like a really neat person.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-17T18:03:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Burnt Orange Old Fashioned</title><link href="http://localhost:4000/2021/08/19/old-fashioned" rel="alternate" type="text/html" title="Burnt Orange Old Fashioned" /><published>2021-08-19T00:00:00-04:00</published><updated>2021-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/19/old-fashioned</id><content type="html" xml:base="http://localhost:4000/2021/08/19/old-fashioned">&lt;p&gt;I just turned 39. Is that too young to be old fashioned? hyuk yuk yuk.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Some sort of fire producing apparatus, like a lighter or one of those fancy kitchen blowtorches&lt;/li&gt;
+  &lt;li&gt;A big chonky ice cube&lt;/li&gt;
+  &lt;li&gt;1 tsp sugar&lt;/li&gt;
+  &lt;li&gt;2 oz rye or bourbon. I prefer bourbon because I like my throat to hurt.&lt;/li&gt;
+  &lt;li&gt;2 dashes orange bitters, or Angostura bitters if that’s what you have&lt;/li&gt;
+  &lt;li&gt;1 tsp water&lt;/li&gt;
+  &lt;li&gt;A rocks glass&lt;/li&gt;
+  &lt;li&gt;2 slices of orange peel
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do This:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Add sugar, bitters, and water to the rocks glass and stir until sugar is mostly dissolved&lt;/li&gt;
+  &lt;li&gt;Add the chonky ice cube&lt;/li&gt;
+  &lt;li&gt;Add the booze and stir gently. It’s had a long day too, you know.&lt;/li&gt;
+  &lt;li&gt;Bend a slice of orange peel so the oils come out and rub on the rim of the glass&lt;/li&gt;
+  &lt;li&gt;With your fire maker lit, bend the second slice and bring close to the flame to ignite the ccocktails&lt;/li&gt;
+  &lt;li&gt;Drop the second slice in the glass&lt;/li&gt;
+  &lt;li&gt;Drink responsibly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since there are a zillion ways to make an old fashioned, feel free to show me how wrong I am by &lt;a href=&quot;https://github.com/aloria/aloria.github.io&quot;&gt;submitting your own&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/of.gif&quot; alt=&quot;old fashioned&quot; title=&quot;old fashioned&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="ccocktails" /><summary type="html">I just turned 39. Is that too young to be old fashioned? hyuk yuk yuk.</summary></entry><entry><title type="html">Tortilla Factory Salsa</title><link href="http://localhost:4000/2021/08/19/salsa" rel="alternate" type="text/html" title="Tortilla Factory Salsa" /><published>2021-08-19T00:00:00-04:00</published><updated>2021-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/19/salsa</id><content type="html" xml:base="http://localhost:4000/2021/08/19/salsa">&lt;p&gt;Submitted to us via email by Lizzie L, who seems like a really neat person. Lizzie describes this recipe as “an amazing salsa recipe from a now-closed tex-mex restaurant in Herndon, VA.”
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -29,7 +64,7 @@
 &lt;p&gt;Mexican oregano is a completely different plant from standard oregano so try to get some if you can.
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;/assets/images/salsa.jpeg&quot; alt=&quot;salsa&quot; title=&quot;salsa&quot; /&gt;&lt;/p&gt;</content><author><name>Lizzie L</name></author><category term="condiments" /><category term="dips" /><summary type="html">Submitted to us via email by Lizzie L, who seems like a really neat person.</summary></entry><entry><title type="html">Goulash. Pörkölt, actually: the real thing.</title><link href="http://localhost:4000/2021/08/18/goulash-the-real-thing" rel="alternate" type="text/html" title="Goulash. Pörkölt, actually: the real thing." /><published>2021-08-18T00:00:00-04:00</published><updated>2021-08-18T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/18/goulash-the-real-thing</id><content type="html" xml:base="http://localhost:4000/2021/08/18/goulash-the-real-thing">&lt;p&gt;Learned if from my late (100 % Hungarian) grandma.&lt;/p&gt;
+&lt;img src=&quot;/assets/images/salsa.jpeg&quot; alt=&quot;salsa&quot; title=&quot;salsa&quot; /&gt;&lt;/p&gt;</content><author><name>Lizzie L</name></author><category term="condiments" /><category term="dips" /><summary type="html">Submitted to us via email by Lizzie L, who seems like a really neat person. Lizzie describes this recipe as “an amazing salsa recipe from a now-closed tex-mex restaurant in Herndon, VA.”</summary></entry><entry><title type="html">Goulash. Pörkölt, actually: the real thing.</title><link href="http://localhost:4000/2021/08/18/goulash-the-real-thing" rel="alternate" type="text/html" title="Goulash. Pörkölt, actually: the real thing." /><published>2021-08-18T00:00:00-04:00</published><updated>2021-08-18T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/18/goulash-the-real-thing</id><content type="html" xml:base="http://localhost:4000/2021/08/18/goulash-the-real-thing">&lt;p&gt;Learned if from my late (100 % Hungarian) grandma.&lt;/p&gt;
 
 &lt;p&gt;You don’t want my life story. But you do want to know which kind of meat to use, right? Bear with me.&lt;/p&gt;
 
@@ -314,33 +349,4 @@ For the topping:&lt;/li&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/assets/images/guac.gif&quot; alt=&quot;guac&quot; title=&quot;guac&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>archwisp</name></author><category term="condiments" /><category term="dips" /><summary type="html">By @archwisp.</summary></entry><entry><title type="html">Fiddleheads</title><link href="http://localhost:4000/2021/07/06/fiddleheads" rel="alternate" type="text/html" title="Fiddleheads" /><published>2021-07-06T00:00:00-04:00</published><updated>2021-07-06T00:00:00-04:00</updated><id>http://localhost:4000/2021/07/06/fiddleheads</id><content type="html" xml:base="http://localhost:4000/2021/07/06/fiddleheads">&lt;p&gt;It’s a fern you can eat. Very popular in Maine.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;~1 lb fiddleheads&lt;/li&gt;
-  &lt;li&gt;Minced or crushed garlic. I use 3 cloves, but go nuts&lt;/li&gt;
-  &lt;li&gt;3 tbsp butter&lt;/li&gt;
-  &lt;li&gt;2 tbsp lemon juice&lt;/li&gt;
-  &lt;li&gt;THE FLAVA ENHANCA (MSG) or salt&lt;/li&gt;
-  &lt;li&gt;Black pepper (to taste)
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Clean the fiddleheads by rinsing with cold water. Remove any brown stuff and snip the ends&lt;/li&gt;
-  &lt;li&gt;Bring a pot of salted/ MSGed water to a boil and cook the fiddleheads for 5 minutes&lt;/li&gt;
-  &lt;li&gt;Remove the fiddleheads from the water and pat dry with paper towels so you don’t get spattered with hot butter in the next step&lt;/li&gt;
-  &lt;li&gt;Melt butter over medium high heat. Add the fiddleheads and sautée for ~5 minutes, until they start to brown&lt;/li&gt;
-  &lt;li&gt;Add the garlic, lemon juice and pepper and cook for another 3 minutes
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I don’t know if Stephen King likes fiddleheads, but I am going to assume he does.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/king.gif&quot; alt=&quot;king&quot; title=&quot;king&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="sides" /><summary type="html">It’s a fern you can eat. Very popular in Maine.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>archwisp</name></author><category term="condiments" /><category term="dips" /><summary type="html">By @archwisp.</summary></entry></feed>
