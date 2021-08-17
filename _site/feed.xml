@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-16T19:48:49-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Vegetable Pie with Chicken</title><link href="http://localhost:4000/2021/08/16/veg-pie" rel="alternate" type="text/html" title="Vegetable Pie with Chicken" /><published>2021-08-16T00:00:00-04:00</published><updated>2021-08-16T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/16/veg-pie</id><content type="html" xml:base="http://localhost:4000/2021/08/16/veg-pie">&lt;p&gt;Submitted by &lt;a href=&quot;https://liadan.wordpress.com/2010/12/21/vegitable-pie-with-chicken/&quot;&gt;liadan&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-17T17:17:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">French Dressing</title><link href="http://localhost:4000/2021/08/17/french-dressing" rel="alternate" type="text/html" title="French Dressing" /><published>2021-08-17T00:00:00-04:00</published><updated>2021-08-17T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/17/french-dressing</id><content type="html" xml:base="http://localhost:4000/2021/08/17/french-dressing">&lt;p&gt;Another hit by &lt;a href=&quot;https://twitter.com/mramblr&quot;&gt;Midnight Rambler&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/4 cup red wine vinegar&lt;/li&gt;
+  &lt;li&gt;balsamic vinegar to bring up to 1/3 cup&lt;/li&gt;
+  &lt;li&gt;1 1/2 tsp salt&lt;/li&gt;
+  &lt;li&gt;ground black pepper&lt;/li&gt;
+  &lt;li&gt;1 tsp Dijon mustard&lt;/li&gt;
+  &lt;li&gt;2 cloves garlic, crushed&lt;/li&gt;
+  &lt;li&gt;tiny pinch sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mix together in order, making sure the salt is completely dissolved before adding the mustard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Add:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/2 cup olive oil&lt;/li&gt;
+  &lt;li&gt;1/2 cup canola, grapeseed, or other vegetable oil*&lt;/li&gt;
+  &lt;li&gt;Blend with a hand blender so it’s smooth and emulsified.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If the proportions are right, it should hardly separate at all even after days. Add a little more oil if needed to get the flavor balance right (after trying it on salad).
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/french.gif&quot; alt=&quot;french&quot; title=&quot;french&quot; /&gt;&lt;/p&gt;</content><author><name>Midnight Rambler</name></author><category term="condiments" /><summary type="html">Another hit by Midnight Rambler.</summary></entry><entry><title type="html">Vegetable Pie with Chicken</title><link href="http://localhost:4000/2021/08/16/veg-pie" rel="alternate" type="text/html" title="Vegetable Pie with Chicken" /><published>2021-08-16T00:00:00-04:00</published><updated>2021-08-16T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/16/veg-pie</id><content type="html" xml:base="http://localhost:4000/2021/08/16/veg-pie">&lt;p&gt;Submitted by &lt;a href=&quot;https://liadan.wordpress.com/2010/12/21/vegitable-pie-with-chicken/&quot;&gt;liadan&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
 &lt;ul&gt;
@@ -271,34 +299,4 @@ For the topping:&lt;/li&gt;
   &lt;li&gt;Heat thoroughly and season to taste&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/chili_with_beans.jpg&quot; alt=&quot;white cloud chili&quot; title=&quot;white cloud chili&quot; /&gt;&lt;/p&gt;</content><author><name>gnuconsulting</name></author><category term="beans" /><category term="soup" /><category term="chili" /><summary type="html">by @gnuconsulting</summary></entry><entry><title type="html">Veggie Gravy</title><link href="http://localhost:4000/2021/07/04/vegge-gravy" rel="alternate" type="text/html" title="Veggie Gravy" /><published>2021-07-04T00:00:00-04:00</published><updated>2021-07-04T00:00:00-04:00</updated><id>http://localhost:4000/2021/07/04/vegge-gravy</id><content type="html" xml:base="http://localhost:4000/2021/07/04/vegge-gravy">&lt;p&gt;Broth (haha, pun) to us by the illustrious &lt;a href=&quot;https://twitter.com/archwisp&quot;&gt;archwisp&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1/2 cup vegetable oil&lt;/li&gt;
-  &lt;li&gt;1/3 cup chopped onion&lt;/li&gt;
-  &lt;li&gt;5 cloves of garlic, minced&lt;/li&gt;
-  &lt;li&gt;1/2 cup flour&lt;/li&gt;
-  &lt;li&gt;4 tbsp nutritional yeast&lt;/li&gt;
-  &lt;li&gt;4 tbsp light soy sauce&lt;/li&gt;
-  &lt;li&gt;2 cups vegetable or mushroom broth&lt;/li&gt;
-  &lt;li&gt;1/2 tsp dried sage&lt;/li&gt;
-  &lt;li&gt;1/2 tsp salt&lt;/li&gt;
-  &lt;li&gt;1/4 tsp ground black pepper
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Heat oil in a saucepan over medium heat&lt;/li&gt;
-  &lt;li&gt;Sauté onions and garlic until soft and translucent (~5 minutes)&lt;/li&gt;
-  &lt;li&gt;Add flour, nutritional yeast, and soy sauce to form a smooth paste&lt;/li&gt;
-  &lt;li&gt;Gradually whisk in the broth&lt;/li&gt;
-  &lt;li&gt;Season with sage, salt and pepper&lt;/li&gt;
-  &lt;li&gt;Bring to a boil&lt;/li&gt;
-  &lt;li&gt;Reduce heat and simmer, stirring constantly for 8-10 minutes until thickened.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/gravy.gif&quot; alt=&quot;gravy&quot; title=&quot;gravy&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>archwisp</name></author><category term="condiments" /><summary type="html">Broth (haha, pun) to us by the illustrious archwisp.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/chili_with_beans.jpg&quot; alt=&quot;white cloud chili&quot; title=&quot;white cloud chili&quot; /&gt;&lt;/p&gt;</content><author><name>gnuconsulting</name></author><category term="beans" /><category term="soup" /><category term="chili" /><summary type="html">by @gnuconsulting</summary></entry></feed>
