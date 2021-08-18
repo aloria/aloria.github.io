@@ -45,13 +45,13 @@
                     this.add({
                         'id': key,
                         'title': window.store[key].title,
-                        'categories': window.store[key].category,
+                        'categories': window.store[key].categories,
                         'url': window.store[key].url,
                         'content': window.store[key].content});
       }
             });
 
-            var results = idx.search(searchTerm); // Get lunr to perform a search
+            var results = idx.search('*' + searchTerm + '*'); // Get lunr to perform a search
             displaySearchResults(results, window.store);
   }
 })();
