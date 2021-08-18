@@ -5,7 +5,7 @@ date: 2021-08-18
 author:  felixk
 categories: [meats]
 ---
-Learned if from my late (100 % Hungarian) grandma.
+Learned it from my late (100 % Hungarian) grandma.
 
 You don't want my life story. But you do want to know which kind of meat to use, right? Bear with me.
 
