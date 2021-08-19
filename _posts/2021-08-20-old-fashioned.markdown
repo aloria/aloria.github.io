@@ -2,8 +2,8 @@
 layout: post
 title: "Burnt Orange Old Fashioned"
 author: aloria
-date:   2021-08-19
-categories: [ccocktails]
+date:   2021-08-20
+categories: [cocktails]
 ---
 I just turned 39. Is that too young to be old fashioned? hyuk yuk yuk.
 <br/>
