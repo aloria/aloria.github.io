@@ -1,39 +1,31 @@
 ---
 layout: post
-title: "Burnt Orange Old Fashioned"
+title: "French 75"
 author: aloria
-date:   2021-08-20
+date:   2021-08-27
 categories: [cocktails]
 ---
-I just turned 39. Is that too young to be old fashioned? hyuk yuk yuk.
-<br/>
-<br/>
 
 ## What you need:
-* Some sort of fire producing apparatus, like a lighter or one of those fancy kitchen blowtorches
-* A big chonky ice cube
-* 1 tsp sugar
-* 2 oz rye or bourbon. I prefer bourbon because I like my throat to hurt.
-* 2 dashes orange bitters, or Angostura bitters if that's what you have
-* 1 tsp water
-* A rocks glass
-* 2 slices of orange peel
+* 2 oz London dry style gin (I like Hendrick's Midsummer Solstice)
+* 0.5 oz lemon juice
+* 0.5 oz simple syrup
+* 2-3 oz Brut Champagne (or other sparkling wine)
+* Lemon twist
+* Ice
+* A cocktail shaker
 <br/>
 <br/>
 
 ## Do This:
-* Add sugar, bitters, and water to the rocks glass and stir until sugar is mostly dissolved
-* Add the chonky ice cube
-* Add the booze and stir gently. It's had a long day too, you know.
-* Bend a slice of orange peel so the oils come out and rub on the rim of the glass
-* With your fire maker lit, bend the second slice and bring close to the flame to ignite the ccocktails
-* Drop the second slice in the glass
+* Put gin, lemon juice, and simple syrup in a cocktail shaker
+* Fill shaker with ice
+* Cover and shake the heck out of it until the outside of the shaker is cold
+* Strain into a champagne glass. Or drink it out of a Solo cup; I don't judge.
+* Top with champagne
+* Garnish with lemon twist
 * Drink responsibly.
 
 <br/>
 <br/>
-
-Since there are a zillion ways to make an old fashioned, feel free to show me how wrong I am by [submitting your own](https://github.com/aloria/aloria.github.io).
-<br/>
-<br/>
-![old fashioned]({{ site.baseurl }}/assets/images/of.gif "old fashioned")
+![gin]({{ site.baseurl }}/assets/images/gin.gif "gin")
