@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Chocolate Cake Shot"
+author: aloria
+date:   2021-09-03
+categories: [cocktails]
+---
+Create a party in your mouth with the mysteries of mixology. <br/><br/>
+## What you need:
+* 1 oz Frangelico
+* 0.5 oz vodka
+* A wedge of lemon
+* A shot glass
+<br/>
+<br/>
+
+## Do This:
+* Combine the vodka and Frangelico in a shot glass
+* Dip the lemon wedge into sugar
+* Suck the lemon wedge and take the shot
+* Drink responsibly.
+
+<br/>
+<br/>
+![cake]({{ site.baseurl }}/assets/images/cake.gif "cake")

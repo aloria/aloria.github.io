@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-26T19:00:20-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">French 75</title><link href="http://localhost:4000/2021/08/27/french-75" rel="alternate" type="text/html" title="French 75" /><published>2021-08-27T00:00:00-04:00</published><updated>2021-08-27T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/27/french-75</id><content type="html" xml:base="http://localhost:4000/2021/08/27/french-75">&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-27T19:23:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Chocolate Cake Shot</title><link href="http://localhost:4000/2021/09/03/cake-shot" rel="alternate" type="text/html" title="Chocolate Cake Shot" /><published>2021-09-03T00:00:00-04:00</published><updated>2021-09-03T00:00:00-04:00</updated><id>http://localhost:4000/2021/09/03/cake-shot</id><content type="html" xml:base="http://localhost:4000/2021/09/03/cake-shot">&lt;p&gt;Create a party in your mouth with the mysteries of mixology. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 oz Frangelico&lt;/li&gt;
+  &lt;li&gt;0.5 oz vodka&lt;/li&gt;
+  &lt;li&gt;A wedge of lemon&lt;/li&gt;
+  &lt;li&gt;A shot glass
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do This:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Combine the vodka and Frangelico in a shot glass&lt;/li&gt;
+  &lt;li&gt;Dip the lemon wedge into sugar&lt;/li&gt;
+  &lt;li&gt;Suck the lemon wedge and take the shot&lt;/li&gt;
+  &lt;li&gt;Drink responsibly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/cake.gif&quot; alt=&quot;cake&quot; title=&quot;cake&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="cocktails" /><summary type="html">Create a party in your mouth with the mysteries of mixology. What you need: 1 oz Frangelico 0.5 oz vodka A wedge of lemon A shot glass</summary></entry><entry><title type="html">French 75</title><link href="http://localhost:4000/2021/08/27/french-75" rel="alternate" type="text/html" title="French 75" /><published>2021-08-27T00:00:00-04:00</published><updated>2021-08-27T00:00:00-04:00</updated><id>http://localhost:4000/2021/08/27/french-75</id><content type="html" xml:base="http://localhost:4000/2021/08/27/french-75">&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;2 oz London dry style gin (I like Hendrick’s Midsummer Solstice)&lt;/li&gt;
   &lt;li&gt;0.5 oz lemon juice&lt;/li&gt;
@@ -323,36 +344,4 @@ or peanut or canola oils (meh) with a pat of butter for taste&lt;/li&gt;
   &lt;li&gt;Serve over toast.
 &lt;br /&gt;&lt;br /&gt;
 You may prefer more meat, or less meat depending on how much sauce you have. YMMV.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="meats" /><category term="breakfast" /><summary type="html">What you need Medium saucepan Whisk 2 tbsp butter 1 clove of garlic, diced, pressed or smooshed. 2 tbsp flour salt &amp;amp; pepper, to taste 1 cup milk 1 cup of deli sliced ham, cut into strips or squares 2 slices of bread, toasted</summary></entry><entry><title type="html">Sweet Potato Casserole</title><link href="http://localhost:4000/2021/07/09/sweet-potato-casserole" rel="alternate" type="text/html" title="Sweet Potato Casserole" /><published>2021-07-09T00:00:00-04:00</published><updated>2021-07-09T00:00:00-04:00</updated><id>http://localhost:4000/2021/07/09/sweet-potato-casserole</id><content type="html" xml:base="http://localhost:4000/2021/07/09/sweet-potato-casserole">&lt;p&gt;By &lt;a href=&quot;https://twitter.com/archwisp&quot;&gt;@archwisp&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;3 cups mashed sweet potatoes&lt;/li&gt;
-  &lt;li&gt;1 cup sugar&lt;/li&gt;
-  &lt;li&gt;1 tbsp vanilla extract&lt;/li&gt;
-  &lt;li&gt;1 stick butter or margarine&lt;/li&gt;
-  &lt;li&gt;2 eggs
-&lt;br /&gt;
-&lt;br /&gt;
-For the topping:&lt;/li&gt;
-  &lt;li&gt;1/3 cups flour&lt;/li&gt;
-  &lt;li&gt;1 cup brown sugar&lt;/li&gt;
-  &lt;li&gt;1/3 cup butter&lt;/li&gt;
-  &lt;li&gt;1 cup chopped pecans
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do this&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Preheat oven to 325 °F&lt;/li&gt;
-  &lt;li&gt;Mix potatoes, sugar, eggs, and vanilla together. Spread mixture into a casserole dish&lt;/li&gt;
-  &lt;li&gt;In a new bowl, cut butter into flour and brown sugar and mix until crumbly&lt;/li&gt;
-  &lt;li&gt;Spread over potatoes. Sprinkle chopped pecans on top&lt;/li&gt;
-  &lt;li&gt;Bake for 30 minutes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; this can be made ahead of time and frozen, or made in 2 separate casserole dishes
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/potat.gif&quot; alt=&quot;potat&quot; title=&quot;potat&quot; /&gt;&lt;/p&gt;</content><author><name>archwisp</name></author><category term="sides" /><category term="casseroles" /><summary type="html">By @archwisp.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><category term="meats" /><category term="breakfast" /><summary type="html">What you need Medium saucepan Whisk 2 tbsp butter 1 clove of garlic, diced, pressed or smooshed. 2 tbsp flour salt &amp;amp; pepper, to taste 1 cup milk 1 cup of deli sliced ham, cut into strips or squares 2 slices of bread, toasted</summary></entry></feed>
