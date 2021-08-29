@@ -25,6 +25,7 @@ Please don't make this and record yourself doing a mukbang. We've had enough of 
 * Cook the noodles according to the package directions. Omit the flavor packet. Or don't. I'm not your mom.
 * Drain the noodles and set aside
 * Chop the scallions, keeping the white and green parts separate
+* Mince the garlic
 * In some sort of skillet, heat the oil over medium-high heat
 * Add the white scallions, garlic, and ginger and stir for a minute or two
 * Add soy sauce, vinegar, mirin/ wine, chili paste, and sesame oil and stir for another minute
