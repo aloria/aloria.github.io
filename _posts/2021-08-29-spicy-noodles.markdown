@@ -14,7 +14,7 @@ Please don't make this and record yourself doing a mukbang. We've had enough of 
 * 2 tbsp peanut or coconut oil
 * A bunch of scallions. Use however much you want. Go nuts.
 * 5-6 cloves of garlic
-* 2 tbsp grated ginger or .5 tsp garlic powder
+* 2 tbsp grated ginger or .5 tsp ginger powder
 * 4 tbsp soy sauce
 * 1 tbsp mirin, sake, or marsala
 * 1 tbsp rice vinegar
