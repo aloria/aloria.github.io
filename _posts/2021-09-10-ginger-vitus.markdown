@@ -2,7 +2,7 @@
 layout: post
 title: "Ginger Vitus"
 author: aloria
-date:   2022-09-10
+date:   2021-09-10
 categories: [cocktails]
 ---
 Shout out to Uncle Barry's in Park Slope for this delightfully punny drink. I hope I didn't butcher it.<br/>

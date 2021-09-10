@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-10T18:39:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Ginger Vitus</title><link href="http://localhost:4000/2022/09/10/ginger-vitus" rel="alternate" type="text/html" title="Ginger Vitus" /><published>2022-09-10T00:00:00-04:00</published><updated>2022-09-10T00:00:00-04:00</updated><id>http://localhost:4000/2022/09/10/ginger-vitus</id><content type="html" xml:base="http://localhost:4000/2022/09/10/ginger-vitus">&lt;p&gt;Shout out to Uncle Barry’s in Park Slope for this delightfully punny drink. I hope I didn’t butcher it.&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-10T18:41:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Just the F*cking Recipe</title><subtitle>I don't need your life story. I just want some food.</subtitle><entry><title type="html">Cosmonaut (cocktail)</title><link href="http://localhost:4000/2022/04/12/cosmonaut" rel="alternate" type="text/html" title="Cosmonaut (cocktail)" /><published>2022-04-12T00:00:00-04:00</published><updated>2022-04-12T00:00:00-04:00</updated><id>http://localhost:4000/2022/04/12/cosmonaut</id><content type="html" xml:base="http://localhost:4000/2022/04/12/cosmonaut">&lt;p&gt;[Beldar and Prymatt laugh] &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;4 oz Russian vodka. I prefer ВОЗДУХ but Stoli is good, too.&lt;/li&gt;
+  &lt;li&gt;2 tbsp Tang powder&lt;/li&gt;
+  &lt;li&gt;Ice&lt;/li&gt;
+  &lt;li&gt;(optional) An orange slice
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;do-this&quot;&gt;Do This:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stir the the Tang powder into the vodka until dissolved&lt;/li&gt;
+  &lt;li&gt;Shake Tang + vodka mixture in a cocktail shaker with ice until the outside of the shaker feels cold&lt;/li&gt;
+  &lt;li&gt;Pour it into some kind of glass. Garnish with the orange slice if you’re feeling fancy&lt;/li&gt;
+  &lt;li&gt;За здоровье.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/space.gif&quot; alt=&quot;space&quot; title=&quot;space&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="cocktails" /><summary type="html">[Beldar and Prymatt laugh] What you need: 4 oz Russian vodka. I prefer ВОЗДУХ but Stoli is good, too. 2 tbsp Tang powder Ice (optional) An orange slice</summary></entry><entry><title type="html">Ginger Vitus</title><link href="http://localhost:4000/2021/09/10/ginger-vitus" rel="alternate" type="text/html" title="Ginger Vitus" /><published>2021-09-10T00:00:00-04:00</published><updated>2021-09-10T00:00:00-04:00</updated><id>http://localhost:4000/2021/09/10/ginger-vitus</id><content type="html" xml:base="http://localhost:4000/2021/09/10/ginger-vitus">&lt;p&gt;Shout out to Uncle Barry’s in Park Slope for this delightfully punny drink. I hope I didn’t butcher it.&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
 &lt;ul&gt;
@@ -22,28 +43,7 @@
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;/assets/images/ging.gif&quot; alt=&quot;ging&quot; title=&quot;ging&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="cocktails" /><summary type="html">Shout out to Uncle Barry’s in Park Slope for this delightfully punny drink. I hope I didn’t butcher it. What you need: 2 parts Pimm’s 2 parts lemon juice 1 part ginger syrup 1 part cucumber vodka Club soda Ice</summary></entry><entry><title type="html">Cosmonaut (cocktail)</title><link href="http://localhost:4000/2022/04/12/cosmonaut" rel="alternate" type="text/html" title="Cosmonaut (cocktail)" /><published>2022-04-12T00:00:00-04:00</published><updated>2022-04-12T00:00:00-04:00</updated><id>http://localhost:4000/2022/04/12/cosmonaut</id><content type="html" xml:base="http://localhost:4000/2022/04/12/cosmonaut">&lt;p&gt;[Beldar and Prymatt laugh] &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;4 oz Russian vodka. I prefer ВОЗДУХ but Stoli is good, too.&lt;/li&gt;
-  &lt;li&gt;2 tbsp Tang powder&lt;/li&gt;
-  &lt;li&gt;Ice&lt;/li&gt;
-  &lt;li&gt;(optional) An orange slice
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;do-this&quot;&gt;Do This:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Stir the the Tang powder into the vodka until dissolved&lt;/li&gt;
-  &lt;li&gt;Shake Tang + vodka mixture in a cocktail shaker with ice until the outside of the shaker feels cold&lt;/li&gt;
-  &lt;li&gt;Pour it into some kind of glass. Garnish with the orange slice if you’re feeling fancy&lt;/li&gt;
-  &lt;li&gt;За здоровье.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/space.gif&quot; alt=&quot;space&quot; title=&quot;space&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="cocktails" /><summary type="html">[Beldar and Prymatt laugh] What you need: 4 oz Russian vodka. I prefer ВОЗДУХ but Stoli is good, too. 2 tbsp Tang powder Ice (optional) An orange slice</summary></entry><entry><title type="html">Chocolate Cake Shot</title><link href="http://localhost:4000/2021/09/03/cake-shot" rel="alternate" type="text/html" title="Chocolate Cake Shot" /><published>2021-09-03T00:00:00-04:00</published><updated>2021-09-03T00:00:00-04:00</updated><id>http://localhost:4000/2021/09/03/cake-shot</id><content type="html" xml:base="http://localhost:4000/2021/09/03/cake-shot">&lt;p&gt;Create a party in your mouth with the mysteries of mixology. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/ging.gif&quot; alt=&quot;ging&quot; title=&quot;ging&quot; /&gt;&lt;/p&gt;</content><author><name>aloria</name></author><category term="cocktails" /><summary type="html">Shout out to Uncle Barry’s in Park Slope for this delightfully punny drink. I hope I didn’t butcher it. What you need: 2 parts Pimm’s 2 parts lemon juice 1 part ginger syrup 1 part cucumber vodka Club soda Ice</summary></entry><entry><title type="html">Chocolate Cake Shot</title><link href="http://localhost:4000/2021/09/03/cake-shot" rel="alternate" type="text/html" title="Chocolate Cake Shot" /><published>2021-09-03T00:00:00-04:00</published><updated>2021-09-03T00:00:00-04:00</updated><id>http://localhost:4000/2021/09/03/cake-shot</id><content type="html" xml:base="http://localhost:4000/2021/09/03/cake-shot">&lt;p&gt;Create a party in your mouth with the mysteries of mixology. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;what-you-need&quot;&gt;What you need:&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;1 oz Frangelico&lt;/li&gt;
