@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Red, White, & Blue Shot"
+author: aloria
+date:   2021-09-17
+categories: [cocktails]
+---
+Celebrate Constitution Day the way our forefathers would have intended. By drinking tacky shooters.<br/>
+<br/>
+## What you need:
+* 1/3 oz grenadine
+* 1/3 ounce blue curaçao
+* 1/3 ounce crème de cacao
+<br/>
+<br/>
+
+## Do This:
+* Pour the grenadine in the shot glass
+* Float the crème de cacao on top by pouring slowly over the back of a spoon
+* Do the same with the blue curaçao
+* Drink responsibly and remember to vote.
+
+
+<br/>
+<br/>
+![murica]({{ site.baseurl }}/assets/images/murica.gif "murica")
