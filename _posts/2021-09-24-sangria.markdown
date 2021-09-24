@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Sangria"
+author: aloria
+date:   2021-09-24
+categories: [cocktails]
+---
+The first time I ever got drunk was when I was 16 and took a trip to Spain. My friends didn't like the sangria so I drank the entire pitcher and ended up calling them "putas baratas" whenever I needed to translate for them. <br/>
+<br/>
+## What you need:
+* A bottle of dry red wine
+* .5 cup brandy
+* An apple
+* An orange
+* 4 tbsp symple syrup
+* 1 cup orange juice
+* Ice
+<br/>
+<br/>
+
+## Do This:
+* Cut the apple into wedges
+* Cut the orange into round slices
+* Dump everything in a pitcher and stir
+* Drink responsibly and do not attempt to speak Spanish to underpaid gift shop owners. 
+
+
+<br/>
+<br/>
+![sangria]({{ site.baseurl }}/assets/images/sangria.gif "sangria")
