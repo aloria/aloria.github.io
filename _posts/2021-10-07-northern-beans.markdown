@@ -2,8 +2,8 @@
 layout: post
 title:  "Northern Beans & Kraut"
 date:   2021-10-07
-author: Erin Bern
-categories: [carbs, beans, breakfas6]
+author: [Erin Bern](https://github.com/erinbern)
+categories: [carbs, beans, breakfast, vegan]
 ---
 This comes to us from the majestical [Vertori](https://mastodon.social/@vertori), who slid into our DMs like Vin Diesel's cameo in The Fast and the Furious: Tokyo Drift. <br/>
 <br/>
@@ -26,7 +26,7 @@ This comes to us from the majestical [Vertori](https://mastodon.social/@vertori)
 * Seal & shake beans with spices until mixed.
 * Put sliced/whole olives inside the container with beans.
 * Put Sauerkraut inside the container.
-* Put a spoon of Salsa Verde into the container.
+* Put a spoonfull of Salsa Verde into the container.
 * Seal container & shake, mixing the ingredients.
 * Enjoy hot or chill and enjoy cold.
 <br/>
