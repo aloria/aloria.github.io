@@ -33,4 +33,4 @@ Here's how you make one of my favourite dishes. <br/>
 <br/>
 <br/>
 <br/>
-![beans]({{ site.baseurl }}/assets/images/beans.gif "beans")
+![beans]({{ site.baseurl }}/assets/images/beansf.gif "beans")
