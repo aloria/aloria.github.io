@@ -5,7 +5,9 @@ date:   2021-10-11
 author: Erin Bern
 categories: [carbs, rice, beans, dinner, vegan]
 ---
-Yummy, hearty, spicy. What's not to love? Here's how you make one of my favourite dishes. <br/>
+Yummy, hearty, spicy. 
+What's not to love? <br/>
+Here's how you make one of my favourite dishes. <br/>
 <br/>
 ## What you need
 * Rice
