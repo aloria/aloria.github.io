@@ -23,7 +23,7 @@ You can put these on your tendies.<br/><br/>
 
 ## Do This:
 * Dump everything except the honey and corn starch in the blending apparatus and pulverize
-* Dump results of previous step into a saucepan and bring to a boil
+* Dump results of previous step into a saucepan plus honey and bring to a boil
 * Mix cornstarch and a bit of hot water until there are no clumps
 * Add cornstarch mixture to saucepan
 * Simmer for 15-20 minutes. Let cool and transfer to a jar or something  <br/><br/>
