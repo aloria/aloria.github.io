@@ -35,6 +35,6 @@ Why do I do these things? Because I can.<br/>
 * Heat oil on medium high heat
 * Cook strips on each side for ~2-3 minutes. Because they were pre-baked, it won't take as long as if they were raw
 * Put some paper towels on a dish and place tendies on top to absorb the excess oil
-* Enjoy with your choice of dipping sauce. Might I recommend my (Jalapeño Garlic Honey Sauce)[https://just-the.recipes/2021/11/07/jalapeno-honey]? <br/>
+* Enjoy with your choice of dipping sauce. Might I recommend my [Jalapeño Garlic Honey Sauce](https://just-the.recipes/2021/11/07/jalapeno-honey)? <br/>
 <br/>
 ![doritos]({{ site.baseurl }}/assets/images/doritos.gif "doritos")
