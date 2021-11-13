@@ -5,7 +5,7 @@ date:   2021-10-07
 author: Erin Bern
 categories: [carbs, beans, breakfast, vegan]
 ---
-This comes to us from the majestical [Vertori](https://mastodon.social/@vertori), who slid into our DMs like Vin Diesel's cameo in The Fast and the Furious: Tokyo Drift. <br/>
+This comes to us from the majestical [@erinberrie](https://twitter.com/erinberrie), who slid into our DMs like Vin Diesel's cameo in The Fast and the Furious: Tokyo Drift. <br/>
 <br/>
 ## What you need
 * Northern Beans
