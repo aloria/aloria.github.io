@@ -1,0 +1,5 @@
+.DS_Store
+force-push.sh
+start-jekyll.sh
+_site*
+Gemfile.lock
