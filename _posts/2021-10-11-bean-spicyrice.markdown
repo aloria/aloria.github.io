@@ -9,6 +9,7 @@ Yummy, hearty, spicy.
 What's not to love? <br/>
 Here's how you make one of my favourite dishes. <br/>
 <br/>
+Posted by [@erinberrie](https://twitter.com/erinberrie).
 ## What you need
 * Rice
 * Celery
