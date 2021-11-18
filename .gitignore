@@ -3,3 +3,4 @@ force-push.sh
 start-jekyll.sh
 _site*
 Gemfile.lock
+.jekyll-cache*
