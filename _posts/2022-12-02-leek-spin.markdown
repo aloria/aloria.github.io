@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Cock-a-Leekie Soup"
+date:   2022-02-12
+author:  aloria
+categories: [soup, instant pot]
+---
+It's soup season*, again. So does anyone rememer that scene from The Witches (the OG movie, not that 2020 hot mess) where Bruno's dad deminds the watercress soup the witches are eating because he doesn't like cock-a-leekie? I made both. This is my... heh... spin on the latter. <br/><br/>
+
+*Any time of the year is soup season.<br/>
+## What you need
+* 1 lb bone-in chicken thighs
+* 1 medium yellow onion, diced
+* 4 carrots, peeled and cut into rounds
+* 2 leeks, well spun, and cut into quarter inch rounds
+* Cooking wine or dry white wine, about 1.5 cups
+* 5 cups of water or stock. I used water and vegetable "Better than Bullion"
+* .5 cup long grain rice
+* 1 tbsp garlic powder
+* 1 tbsp oregano
+* Black pepper to taste
+* Chili flakes to taste
+* MSG
+* 1 tbsp butter
+* An instant pot <br/>
+<br/>
+
+## Do this
+* In the Instant Pot, put the chicken thighs on that steamer apparatus if you have it
+* Add garlic powder, oregano, .5 cup of wine, and fill with enough water to reach half of the height of the thighs
+* Pressure cook on high for 15 minutes, or use the meat and poultry mode
+* After the time is up, stab the chicken to ensure it is cooked (liquid runs clear from the tab wound.) If so, remove the thighs from the Instant Pot and set aside to cool. If not, cook again.
+* Dump the carrots, rice, leeks, the rest of the wine, chii flakes,and stock/ water into the pot. Set it on slow cook mode.
+* Shread the chicken, discarding bones and skin. Put chicken back in the pot.
+* In some sort of frying pan, melt butter on medium-high and cook onions until translucent, about 5 minutes. Sprinkle MSG and black pepper on the onions as they cook.
+* Add onions to pot
+* Your soup is done when the rice is fully cooked. You may need to add more liquid after the rice is done.
+* Eat the soup.
+<br/>
+<br/>
+![leekspin]({{ site.baseurl }}/assets/images/leekspin.gif "leekspin")
