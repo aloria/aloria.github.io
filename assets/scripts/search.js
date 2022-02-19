@@ -51,7 +51,11 @@
       }
             });
 
-            var results = idx.search('*' + searchTerm + '*'); // Get lunr to perform a search
+            var results = idx.search(searchTerm); // Get lunr to perform a search
+
+            if (Object.keys(results).length == 0) {
+              results = idx.search('*' + searchTerm + '*'); // try with wildcards
+            }
             displaySearchResults(results, window.store);
   }
 })();
