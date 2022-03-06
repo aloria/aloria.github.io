@@ -34,7 +34,7 @@ For toppings:
 * Reduce the heat to medium-low and cook until the pomegranate juice becomes thick; this takes a little under two hours.
 * In a large pot or instant pot, add enough oil to coat the bottom. On medium-high heat, sweat the onions for about 5 minutes
 * Add the garlic and cook for another couple minutes until fragrant
-* Add the stock, all of the spices except the mint, and the beans, peas, lentils, and barley
+* Add the stock, wine, all of the spices except the mint, and the beans, peas, lentils, and barley
 * If using an instant pot, pressure cook on high for 15 minutes. If not, bring soup to a boil, then reduce temperature to medium-low and simmer for 1.5 hours or until the mung beans are tender
 * Add the mint and .5 cup of the reduced pomegranate juice
 * Add MSG (or salt if you're basic) and black pepper to taste, making sure to simmer for a few minutes before adding more
