@@ -5,5 +5,5 @@
 - default: menu_category
   url: 'categories'
 
-- default: search_category
-  url: search
+- default: menu_submit
+  url: 'submit'
