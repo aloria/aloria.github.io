@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Granola"
+date:   2022-03-28
+author:  aloria
+categories: [breakfast, baked]
+---
+This has a lot of stuff in it that's supposed to be good for you, so you can feel less guilty about that liter of Wild Turkey you chugged last night. Seriously, dude, we're all worried about you.<br/>
+
+## What you need
+* 1.5 cups rolled oats
+* .5 cup sliced or slivered almonds
+* .5 tbsp salt
+* .125 cup chia seeds
+* .25 cup flax seeds
+* .25 cup hemp hearts
+* .25 cup honey
+* .25 cup neutral oil (I used sunflower)
+* 2/3 cup dried cranberries, chopped
+* 1/3 cup raisins<br/><br/>
+
+You can use other nuts, seeds, or dried fruit in this. Just remember that the fruit goes in last.<br/>
+
+## Do this
+* Preheat oven to 300 °F
+* In a small bowl, whisk honey, oil, and salt together
+* Combine the rest of the dry ingredients (except the fruit) in another bowl
+* Slowly add honey-oil mixture to dry ingredients, stirring until well coated
+* Spread mixture evenly on baking tray
+* Bake for 10 minutes, then give the granola a good stir
+* Bake for another 12 minutes. Granola should be lightly golden; it will start to darken more as it cools
+* Remove from oven and mix in fruit
+* Let cool and put on top of some yogurt or something <br/>
+<br/>
+<br/>
+<br/>
+![granola]({{ site.baseurl }}/assets/images/granola.gif "granola")
