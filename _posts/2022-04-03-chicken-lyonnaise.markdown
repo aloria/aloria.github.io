@@ -21,7 +21,7 @@ I wasted to make Chicken Lyonnaise, one if the last dishes served on the Titanic
 
 ## Do this
 * On medium-high heat, heat enough oil to lightly coat the bottom of a frying pan
-* Cook the chicken on each side for about 4 minutes, until it reaches an internal temperature of 165 °F
+* Cook the chicken on each side for about 4 minutes each, until it reaches an internal temperature of 165 °F
 * Remove chicken and set aside
 * Add shallots and onion to pan, cooking for about 3 minutes until onions become translucent
 * Add garlic and cook for another minute or so until fragrant
